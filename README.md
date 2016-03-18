@@ -1,2 +1,1 @@
-# Data
-Implementation of Unit of Work, Repositories and Queries
+# BitsOnCoffee Data LibraryImplementation of Unit of Work, Repositories and Queries.This is only the base implementation with no concrete data storage implemented.You can implement your own data storage or use [BitsOnCoffee Data.EntityFramework](https://github.com/BitsOnCoffee/Data.EntityFramework) for Entity Framework.###InformationI'm adding a new functionality as I go along with my needs. So any pull requests are welcome!

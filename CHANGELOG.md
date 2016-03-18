@@ -1,0 +1,1 @@
+# BitsOnCoffee DataBitsOnCoffee implementation of Unit of Work, Repositories and Queries##Changelog###1.0.0.0* Initial commit
