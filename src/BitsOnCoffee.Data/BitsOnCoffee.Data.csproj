@@ -50,6 +50,7 @@
     <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="Repositories\RepositoryBase.cs" />
     <Compile Include="Services\ServiceBase.cs" />
+    <Compile Include="StoredProcedures\StoredProcedureBase.cs" />
     <Compile Include="UoW\IUnitOfWork.cs" />
     <Compile Include="UoW\IUnitOfWorkProvider.cs" />
     <Compile Include="UoW\UnitOfWork.cs" />
